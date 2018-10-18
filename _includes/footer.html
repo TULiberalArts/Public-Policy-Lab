@@ -1,0 +1,73 @@
+<footer class="page-footer">
+  <div class="container">
+    <div class="row">
+     <div class="col l3 m6 s12">
+        <ul>
+          <li><a class="white-text" href="{{ site.university.url }}"><strong>{{ site.university.name }}</strong></a></li>
+          <li><a class="white-text" href="{{ site.college.url }}">{{ site.college.name }}</a></li>
+          <li><a class="white-text" href="{{ '/' | prepend: site.baseurl }}">{{ site.title }}</a></li>
+          {% if site.data.staff %}{% if site.data.staff != "" %}
+            <li><a href="{{ '/staff' | prepend: site.baseurl }}" class="white-text"><i class="material-icons">people</i>Staff List</a></li>
+          {% endif %}{% endif %}
+        </ul>
+      </div>
+      <div class="col l3 m6 s12">
+        <ul>
+            <li class="grey-text">{{ site.address.room }} {{ site.address.building }}</li>
+            <li class="grey-text">{{ site.address.street }}</li>
+            <li class="grey-text">{{ site.address.city }}</li>
+            <li class="grey-text"><a href="mailto:{{ site.address.email }}" class="white-text"><i class="material-icons">email</i> {{ site.address.email }}</a></li>
+        </ul>
+      </div>
+      <div class="col l3 m6 s12">
+        <ul>
+            <li>
+              <a href="https://directory.temple.edu/" class="white-text" target="_blank"><i class="material-icons">contacts</i>University Directory</a>
+            </li>
+            <li>
+              <a href="https://www.temple.edu/registrar/documents/calendars/" class="white-text" target="_blank"><i class="material-icons">event_note</i>Academic Calendars</a>
+            </li>
+            <li>
+              <a href="https://temple.edu/maps-and-directions" class="white-text" target="_blank"><i class="material-icons">place</i>Maps &amp; Directions</a>
+            </li>
+            <li>
+              <a href="https://temple.edu/contact" class="white-text" target="_blank"><i class="material-icons">email</i>Contact Temple</a>
+            </li>
+        </ul>
+      </div>
+      <div class="col l3 m6 s12">
+        {% include components/social.html color="white" %}
+      </div>
+    </div>
+  </div>
+  <div class="footer-copyright">
+    <div class="container">
+    &copy; Copyright 1884-{{ site.time | date: '%Y' }} {{ site.university.name }}. All rights reserved.
+    <a href="#top" class="right"><i class="material-icons">arrow_upward</i>Back to Top</a>
+    </div>
+  </div>
+</footer>
+
+<!--Import jQuery before materialize.js-->
+
+<script type="text/javascript" src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+<script type="text/javascript" src="{{ '/assets/js/bin/materialize.js' | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ '/assets/js/temple.js' | prepend: site.baseurl }}"></script>
+
+{% if page.toc %}
+<div id="toc-outer">
+  <div id="toc"></div>
+</div>
+
+<script>
+$("#toc").append('<p>In this page:</p>')
+
+$(".content h1, .content h2, .content h3").each(function(i) {
+    var current = $(this);
+    current.attr("id", "title" + i);
+    $("#toc").append("<a id='link" + i + "' href='#title" +
+        i + "' title='" + current.attr("tagName") + "'>" +
+        current.html() + "</a>");
+});
+</script>
+{% endif %}

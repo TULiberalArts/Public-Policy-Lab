@@ -1,0 +1,132 @@
+---
+# Program/Department Title
+title: Public Policy Lab
+# Subdirectory (with / at only at beginning)
+baseurl: /public-policy-lab
+# Production domain (without / at the end)
+production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/public-policy-lab
+
+# Development Config
+# If you do not have access to 'tutheme', use 'minima' instead.
+theme: tutheme
+palette: light #future feature
+
+# Program Information
+# Short tagline for tweets (<100 characters)
+tagline: This is our life's work
+# Longer descriptions for link previews (<250 characters)
+description: 'The Public Policy Lab is an intellectual home for researchers who study public policies and the social processes relevant to their development and consequences.'
+# List of related keywords for search engines
+keywords: highered, college, university, philadelphia, Temple, data, microdata, big data, research
+
+# Address
+address:
+  building: Gladfelter Hall
+  room: 10th Floor
+  street: 1114 Polett Walk
+  city: Phialdelphia, PA 19122
+  email: PPL@temple.edu
+
+# University & College Information
+university:
+  name: Temple University
+  url: https://temple.edu/
+college:
+  name: College of Liberal Arts
+  url: https://liberalarts.temple.edu/
+
+# Social Media
+# Put in only the username unless otherwise noted
+# If social media does not apply to your department, keep it blank or use the default values.
+social:
+  # Facebook - https://facebook.com/USERNAME
+  # if your page does not have a custom URL, create one!
+  facebook:
+  # Twitter - https://twitter.com/USERNAME
+  twitter: TemplePPL
+  # Instagram - https://www.instagram.com/USERNAME
+  instagram:
+  # Snapchat - USERNAME
+  snapchat:
+  # GitHub - https://github.com/USERNAME or https://github.com/USERNAME/REPO
+  github:
+  # DeviantArt - http://USERNAME.deviantart.com/
+  deviantart:
+  # Vimeo - https://vimeo.com/USERNAME
+  vimeo:
+  # YouTube - Paste the FULL URL below
+  youtube:
+  # LinkedIn - Paste the FULL URL below
+  linkedin:
+  # Slack - Paste the FULL URL below
+  slack:
+  # Google Analytics
+  google_analytics: UA-69082166-1
+  google_tag_manager: GTM-58ZL5B
+  google:
+    api_key: AIzaSyCFlwljsN_PneirlwmoE__Xl-7xdYW98A4
+
+# Global Site Config
+# DO NOT edit below unless if you know what you're doing!
+markdown: kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+timezone: UTC
+collections:
+  pages:
+    title: Pages
+    output: true
+    layout: page
+permalink: /:title
+
+# Prose
+prose:
+  rooturl: pages
+  media: media
+  ignore:
+  - .gitignore
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - index.html
+  - _config.yml
+  metadata:
+    pages:
+      - name: title
+        field:
+          element: text
+          label: Title
+      - name: permalink
+        field:
+          element: text
+          label: Permalink
+      - name: layout
+        field:
+          element: select
+          label: Page layout
+          options:
+            - name: page
+              value: page
+            - name: faculty
+              value: faculty
+            - name: home
+              value: home
+
+# Jekyll Ignore
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.md
+  - s3_website.yml
+  - .sass-cache
+  - .travis.yml
+  - .ruby-version
+  - .gitignore
+  - vendor
+  - _site
+  - node_modules

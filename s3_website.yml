@@ -1,0 +1,4 @@
+s3_id: <%= ENV['AWS_ACCESS_KEY'] %>
+s3_secret: <%= ENV['AWS_SECRET_KEY'] %>
+s3_bucket: tucla-public-policy-lab
+s3_key_prefix: public-policy-lab

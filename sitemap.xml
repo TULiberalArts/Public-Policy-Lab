@@ -1,0 +1,15 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>{{ site.url }}/</loc>
+    </url>
+    {% for pg in site.data.navigation %}
+    {% if pg.layout != 'feed' %}
+    <url>
+        <loc>{{ site.url }}{{ pg.url | remove: 'index.html' }}</loc>
+    </url>
+    {% endif %}
+    {% endfor %}
+</urlset>

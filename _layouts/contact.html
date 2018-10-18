@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+
+{% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <main>
+    {% if page.title %}
+    <div class="page-header container">
+    <div class="container">
+        <h1>{{ page.title }}</h1>
+    </div>
+    </div>
+    {% endif %}
+
+    <div class="page-content">
+        <div class="content">
+        {{ content }}
+        </div>
+    </div>
+    </main>
+
+    {% include footer.html %}
+
+    {% if site.google_tag_manager %}
+    <!-- Google Tag Manager (noscript) -->
+    <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}"
+    height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+    {% elsif site.google_analytics %}
+      {% include google_analytics.html %}
+    {% endif %}
+
+    <script type="text/javascript" src="{{ '/assets/js/maps.js' | prepend: site.baseurl }}"></script>
+    <script type="text/javascript" async defer src="https://maps.googleapis.com/maps/api/js?key={{ site.google.api_key }}&callback=initMap"></script>
+
+  </body>
+
+</html>
