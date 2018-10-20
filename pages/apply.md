@@ -11,21 +11,14 @@ published: true
 <br/>
 The Public Policy Lab (PPL) supports faculty and graduate student scholarship addressing either public policies themselves or social conditions and processes with implications for public policy. We welcome scholars using a wide variety of methodological approaches. We offer three types of fellowships:
 
-1. **Faculty** who apply independently and receive a course release to provide time for their work and to write a grant application.
-2. **Faculty-Graduate Student Research Teams** who apply together and receive a one-semester RAship for the student to work both on the faculty member’s project and the student’s own research.
-3. **Graduate students** who apply independently and receive support for research expenses such as conference travel.
+1. <a href="{{ '/media/faculty-fellowship.pdf' | prepend: site.baseurl }}" target="_blank">Faculty</a> who apply independently and receive a course release to provide time for their work and to write a grant application.
+
+2. <a href="{{ '/media/research-teams.pdf' | prepend: site.baseurl }}" target="_blank">Faculty-Graduate Student Research Teams</a> who apply together and receive a one-semester RAship for the student to work both on the faculty member’s project and the student’s own research.
+
+3. <a href="{{ '/media/graduate-fellowship.pdf' | prepend: site.baseurl }}" target="_blank">Graduate students</a> who apply independently and receive support for research expenses such as conference travel.
 
 All Fellows are appointed for one academic year.  Fellows join a diverse cohort of scholars in an interdisciplinary forum for discussion of contemporary policy issues.  They participate in our on-going PPL Fellowship Workshop in which participants present work in progress and provide feedback on each other’s written work.  Faculty members also present their work in our PPL Colloquia Series.
 
-- [Faculty Fellowships][fac] (pdf)
-- [Research Team Fellowships][research] (pdf)
-- [Graduate Fellowships][grad] (pdf)
-
-The CLA Office of Research is available to [assist applicants][grant-services] and fellows identifying and securing external funding for their research.
+The College of Liberal Arts [Office of Research](https://liberalarts.temple.edu/research) is available to <a href="{{ '/media/CLA-Grant-Support-Services.pdf' | prepend: site.baseurl }}" target="_blank">assist applicants and fellows</a> identifying and securing external funding for their research.
 
 Visit our [application page](https://sites.google.com/temple.edu/ppl) to submit your materials.
-
-[fac]: {{ '/media/faculty-fellowship.pdf' | prepend: site.baseurl }}
-[research]: {{ '/media/research-teams.pdf' | prepend: site.baseurl }}
-[grad]: {{ '/media/graduate-fellowship.pdf' | prepend: site.baseurl }}
-[grant-services]: {{ '/media/CLA-Grant-Support-Services.pdf' | prepend: site.baseurl }}
