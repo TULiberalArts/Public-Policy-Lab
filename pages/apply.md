@@ -5,7 +5,7 @@ layout: tla_page
 published: true
 ---
 
-## Now [Accepting Fellowship Applications](https://sites.google.com/temple.edu/ppl) for the 2019-2020 Academic Year
+## Now <a href="https://sites.google.com/temple.edu/ppl" target="_blank">Accepting Fellowship Applications</a> for the 2019-2020 Academic Year
 ### (Deadline: Nov 30, 2018)
 
 <br/>
@@ -19,6 +19,8 @@ The Public Policy Lab (PPL) supports faculty and graduate student scholarship ad
 
 All Fellows are appointed for one academic year.  Fellows join a diverse cohort of scholars in an interdisciplinary forum for discussion of contemporary policy issues.  They participate in our on-going PPL Fellowship Workshop in which participants present work in progress and provide feedback on each other’s written work.  Faculty members also present their work in our PPL Colloquia Series.
 
-The College of Liberal Arts [Office of Research](https://liberalarts.temple.edu/research) is available to <a href="{{ '/media/CLA-Grant-Support-Services.pdf' | prepend: site.baseurl }}" target="_blank">assist applicants and fellows</a> identifying and securing external funding for their research.
+The College of Liberal Arts <a href="https://liberalarts.temple.edu/research" target="_blank">Office of Research</a> is available to <a href="{{ '/media/CLA-Grant-Support-Services.pdf' | prepend: site.baseurl }}" target="_blank">assist applicants and fellows</a> identifying and securing external funding for their research.
 
-Visit our [application page](https://sites.google.com/temple.edu/ppl) to submit your materials.
+Visit our  <a href="https://sites.google.com/temple.edu/ppl" target="_blank">application page</a> to submit your materials.
+
+
