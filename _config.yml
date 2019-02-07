@@ -36,7 +36,14 @@ university:
 college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
-
+  
+# CSV/JSON/YAML data feeds URLs, to be fetched before each build
+events-feed: https://liberalarts.temple.edu/events/public-policy-lab/csv
+news-feed: https://liberalarts.temple.edu/news/public-policy-lab/csv
+articles-feed: https://liberalarts.temple.edu/articles/public-policy-lab/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/public-policy-lab/csv
+media-mentions-feed: https://liberalarts.temple.edu/media-mentions/public-policy-lab/csv
+  
 # Social Media
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
