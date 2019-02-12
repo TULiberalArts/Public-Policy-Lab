@@ -37,6 +37,9 @@ college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
   
+program_news: https://liberalarts.temple.edu/news/public-policy-lab  
+program_events: https://events.temple.edu/department/public-policy-lab
+  
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/public-policy-lab/csv
 news-feed: https://liberalarts.temple.edu/news/public-policy-lab/csv
