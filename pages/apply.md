@@ -1,10 +1,16 @@
 ---
-title: How to Apply
-permalink: /apply/
+# global predefined variables
 layout: tla_page
+permalink: /apply/
 published: true
+# meta-data variables
+title: How to Apply
+description: >-
+keywords: ''
+# custom variables
+promotion-table: 
+feature: 
 ---
-
 ## Now <a href="https://sites.google.com/temple.edu/ppl" target="_blank">Accepting Fellowship Applications</a> for the 2019-2020 Academic Year
 ### (Deadline: Nov 30, 2018)
 
