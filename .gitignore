@@ -1,5 +1,10 @@
-_site/
-.sass-cache/
-.jekyll-cache/
+_site
+.sass-cache
 .jekyll-metadata
 Gemfile.lock
+.bundle/
+vendor/
+*.patch
+_data/events.csv
+_data/profiles.csv
+_data/news.csv
