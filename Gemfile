@@ -23,6 +23,11 @@ gem "tutheme", :git => "https://github.com/TULiberalArts/TUTheme.git", :branch =
 # For serving the built site
 gem "html-proofer"
 gem "s3_website"
+gem "yaml_command"
+
+group :test do
+  gem 'rake'
+end
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
