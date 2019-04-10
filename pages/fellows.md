@@ -137,4 +137,5 @@ Cody is a PhD candidate in the Department of Sociology at Temple University. His
 
 **Project Statement**
 Over the past two decades, in the absence of comprehensive federal immigration reform and during the same time that the undocumented population reached its historic peak in 2007, some states and smaller localities began to assert control over immigration law policing. The shift in authority from federal to state and local levels has led to variation in interior immigration enforcement intensity across the country and over time. My research project aims to evaluate the effects of some of the most punitive state-level immigration policies in two ways. First, I will utilize an innovative statistical technique to estimate the size of undocumented immigrant populations before and after policy implementations. Second, I will assess potential consequences of increased immigration enforcement to federal survey data quality. Understanding the effects of recent shifts in immigration enforcement will be vital as legislators continue debate over federal immigration policy reform.
+
 ___
