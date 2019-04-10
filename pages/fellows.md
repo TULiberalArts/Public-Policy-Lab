@@ -21,7 +21,6 @@ As a PPL fellow, I am working on developing a new set of demographic estimates o
 
 ___
 
-![Elise Chor]({{site.baseurl}}/media/){:.responsive-img .img-right}
 **[Elise Chor (Assistant Professor, Political Science)](https://liberalarts.temple.edu/academics/faculty/chor-elise)**<br>
 **Fellowship - Faculty Fellow**<br>
 
@@ -54,7 +53,6 @@ Evidence-based practice in psychology, which is the integration of the best avai
 
 ___
 
-![Ethan Fried]({{site.baseurl}}/media/){:.responsive-img .img-right}
 **Ethan Fried (Political Science)**<br>
 **Graduate Fellow**<br>
 
@@ -95,6 +93,7 @@ Dr. Hamil Pearsall is an Associate Professor in the Department of Geography and 
 
 **Project Statement**
 Dr. Pearsall and Stephen Dickinson, PhD student in Geography and Urban Studies, will work together on a Research Team to synthesize the benefits and costs of urban public spaces in North American cities. Urban public space impacts many aspects of a city’s quality of life, including sense of community, social capital, economic and community development, environmental quality, and health. While urban public space has received much attention in scholarly and policy circles, our knowledge of public space requires renewed inquiry. The nature of public space has changed over time with different economic and political dynamics and priorities. There are new models of urban space provision and management that have led towards increasing privatization of public spaces that impacts their provision, accessibility, and use. Additionally, we demand more of our public spaces, expecting them to revitalize neighborhoods, reduce crime, redress longstanding socio-economic and racial inequalities, catalyze economic development, address urban environmental issues like stormwater runoff, and public health concerns like obesity. Our project will focus on two aspects of urban public spaces: 1) the development, management and maintenance of urban public spaces, and 2) approaches to public space evaluation. During the fellowship period we will develop manuscripts for submission to peer-reviewed journals, and our synthesis will contribute to understandings of urban public space by evaluating the state of the field and uncovering key gaps in our knowledge.
+
 ___
 
 ![Caterina Roman]({{site.baseurl}}/media/resizedcaterinaroman.jpg){:.responsive-img .img-right}
