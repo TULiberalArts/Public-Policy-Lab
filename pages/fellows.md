@@ -9,6 +9,9 @@ description: >-
 keywords: ''
 # custom variables
 ---
+The Public Policy Lab is honored to announce our 2019-2020 Inaugural Cohort of Fellows.
+
+___
 
 ![James Bachmeier]({{site.baseurl}}/media/resizedjamesbachmier.jpg){:.responsive-img .img-right}
 **[James Bachmeier (Assistant Professor, Sociology)](https://liberalarts.temple.edu/academics/faculty/bachmeier-james)**<br>
