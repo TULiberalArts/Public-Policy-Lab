@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_page
 permalink: /apply/
-published: true
+published: false
 # meta-data variables
 title: How to Apply
 description: >-
