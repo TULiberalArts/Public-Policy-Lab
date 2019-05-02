@@ -24,6 +24,7 @@ As a PPL fellow, I am working on developing a new set of demographic estimates o
 
 ___
 
+![Elise Chor]({{site.baseurl}}/media/resizedchor.jpg){:.responsive-img .img-right}
 **[Elise Chor (Assistant Professor, Political Science)](https://liberalarts.temple.edu/academics/faculty/chor-elise)**<br>
 **Fellowship - Faculty Fellow**<br>
 
