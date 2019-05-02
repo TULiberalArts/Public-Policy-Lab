@@ -57,6 +57,7 @@ Evidence-based practice in psychology, which is the integration of the best avai
 
 ___
 
+![Ethan Fried]({{site.baseurl}}/media/resizedfried.jpg){:.responsive-img .img-right}
 **Ethan Fried (Political Science)**<br>
 **Graduate Fellow**<br>
 
