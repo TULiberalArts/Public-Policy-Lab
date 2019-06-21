@@ -48,7 +48,7 @@ Panelists discuss immigration policy from academic and legal perspectives, exami
 - [Sozi Tulante](https://www.law.upenn.edu/live/profiles/1322-sozi-tulante) (University of Pennsylvania)<br>
 
 **Keynote Address – 3:30pm / Evictions in America**
-- Matthew Desmond](https://sociology.princeton.edu/people/matthew-desmond) (Princeton University)<br>
+- [Matthew Desmond](https://sociology.princeton.edu/people/matthew-desmond) (Princeton University)<br>
 
 - The event is free and open to the public. [Registration](https://events.temple.edu/public-policy-lab-inaugural-symposium) is required.
 
