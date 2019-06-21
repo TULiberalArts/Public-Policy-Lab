@@ -9,7 +9,7 @@ description: >-
 keywords: ''
 # custom variables
 promotion-table: true
-feature: 
+feature: true
 feature-image:
 ---
 ## Inquiry. Insight. Impact.
