@@ -19,8 +19,8 @@ Philadelphia, PA 19122<br>
 
 **_Schedule:_**<br>
 
-- **Coffee and Registration – 8:30am**<br>
-- **Welcoming Remarks – 9:00am**<br>
+**Coffee and Registration – 8:30am**<br>
+**Welcoming Remarks – 9:00am**<br>
 
 **Panel 1 – 9:30am / The University and Public Policy**<br>
 A panel of academics, administrators, and policy experts come together to discuss the role of the university in shaping public policy. Panelists will discuss the ways in which universities can engage with policy makers and practitioners to effect policy goals.
