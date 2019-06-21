@@ -11,6 +11,47 @@ keywords: ''
 promotion-table: 
 feature: 
 ---
+## Public Policy Lab Inaugural Symposium
+**Thursday, September 5, 2019 - 8:30am-5:00pm**<br>
+Howard Gittis Student Center, Room 200C<br>
+1755 N. 13th Street<br>
+Philadelphia, PA 19122<br>
+
+**_Schedule:_**<br>
+
+- **Coffee and Registration – 8:30am**<br>
+- **Welcoming Remarks – 9:00am**<br>
+
+**Panel 1 – 9:30am / The University and Public Policy**<br>
+A panel of academics, administrators, and policy experts come together to discuss the role of the university in shaping public policy. Panelists will discuss the ways in which universities can engage with policy makers and practitioners to effect policy goals.
+
+- [Maria Cancian](https://gufaculty360.georgetown.edu/s/contact/0031Q00001wxa5XQAQ/maria-cancian) (Georgetown University)<br>
+- [Judith A. Levine](https://liberalarts.temple.edu/academics/faculty/levine-judith) (Temple University, Public Policy Lab Director)<br>
+- [Phoebe A. Haddon](https://www.camden.rutgers.edu/about/biography-chancellor-phoebe-haddon) (Rutgers University-Camden)<br>
+- [Eldar Shafir](https://wws.princeton.edu/faculty-research/faculty/shafir) (Princeton University)<br>
+
+**Panel 2 – 11:00am / Engaging Debates about Early Childhood Education**<br>
+In this moderated panel, scholars discuss the current debates around early childhood education policy including the movement for universal Pre-K, program quality, and funding.
+
+- [W. Steven Barnett](https://gse.rutgers.edu/steven_barnett) (Rutgers University)<br>
+- [Elise Chor](https://liberalarts.temple.edu/academics/faculty/chor-elise) (Temple University, Public Policy Lab Fellow)<br>
+- [Julia Henly](https://ssa.uchicago.edu/ssascholars/j-henly) (University of Chicago)<br>
+- [Annemarie Hindman](https://education.temple.edu/about/faculty-staff/annemarie-h-hindman-ahindman) (Temple University)<br>
+- [Marsha Weinraub](https://liberalarts.temple.edu/academics/faculty/weinraub-marsha) (Temple University)<br>
+
+**Panel 3 – 2:00pm / Immigration Policy and Reform**
+Panelists discuss immigration policy from academic and legal perspectives, examining current debates around unauthorized immigration, refugee policy, and sanctuary cities.
+
+- [James Bachmeier](https://liberalarts.temple.edu/academics/faculty/bachmeier-james) (Temple University, Public Policy Lab Fellow)<br>
+- [Emilio Parrado](https://sociology.sas.upenn.edu/eparrado) (University of Pennsylvania)<br>
+- [Jaya Ramji-Nogales](https://www.law.temple.edu/contact/jaya-ramji-nogales/) (Temple University)<br>
+- [Sozi Tulante](https://www.law.upenn.edu/live/profiles/1322-sozi-tulante) (University of Pennsylvania)<br>
+
+**Keynote Address – 3:30pm / Evictions in America**
+- Matthew Desmond](https://sociology.princeton.edu/people/matthew-desmond) (Princeton University)<br>
+
+- The event is free and open to the public. [Registration](https://events.temple.edu/public-policy-lab-inaugural-symposium) is required.
+
 ## Public Policy Lab: Colloquium Series
 
 ### Fall 2019
