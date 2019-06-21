@@ -52,6 +52,8 @@ Panelists discuss immigration policy from academic and legal perspectives, exami
 
 - The event is free and open to the public. [Registration](https://events.temple.edu/public-policy-lab-inaugural-symposium) is required.
 
+___
+
 ## Public Policy Lab: Colloquium Series
 
 ### Fall 2019
