@@ -15,6 +15,7 @@ feature:
 
 ### Fall 2019
 
+
 ![Caterina Roman]({{site.baseurl}}/media/resizedcaterinaroman.jpg){:.responsive-img .img-right}
 **October 17, 2019: [Caterina Roman (Criminal Justice)](https://liberalarts.temple.edu/academics/faculty/roman-caterina)**<br>
 **_Why is it so Difficult to Reduce Community Violence?  The Challenges of Street Culture, Delinquent Peer Networks and Gangs_**<br>
@@ -31,7 +32,8 @@ This presentation examines inequities in urban public spaces through a series of
 
 ___
  
-## Spring 2020
+### Spring 2020
+
 
 ![David Smith]({{site.baseurl}}/media/resizeddavidsmith.jpg){:.responsive-img .img-right}
 **February 27, 2020: [David Smith (Psychology)](https://liberalarts.temple.edu/academics/faculty/smith-david-v)**<br>
