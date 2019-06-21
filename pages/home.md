@@ -10,7 +10,7 @@ keywords: ''
 # custom variables
 promotion-table: true
 feature: true
-feature-image: media/thumbnail_Web Banner.png
+feature-image: media/
 ---
 ## Inquiry. Insight. Impact.
 
