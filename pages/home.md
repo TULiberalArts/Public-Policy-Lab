@@ -9,8 +9,8 @@ description: >-
 keywords: ''
 # custom variables
 promotion-table: 
-feature: 
-feature-image: 
+feature: true
+feature-image: media/revisedsavethedatered.jpg
 ---
 ![PPL]({{site.baseurl}}/media/resized2pplgroup.jpg){:.img-right} 
 ## Inquiry. Insight. Impact.
