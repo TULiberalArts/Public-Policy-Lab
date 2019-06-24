@@ -9,10 +9,9 @@ description: >-
 keywords: ''
 # custom variables
 promotion-table: true
-feature: 
-feature-image: 
+feature: true
+feature-image: media/resized2temp_hero.jpg
 ---
-![Symposium]({{site.baseurl}}/media/resizedtemp_hero.jpg){:.img-center} 
 ## Inquiry. Insight. Impact.
 The Public Policy Lab is an intellectual home for researchers who study public policies and the social processes relevant to their development and consequences. Housed in the College of Liberal Arts, the non-partisan Lab provides an interdisciplinary forum for discussion of contemporary policy issues, research support for faculty and student scholarship and a mechanism to disseminate participants’ research findings.
 
