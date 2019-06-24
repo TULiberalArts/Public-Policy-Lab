@@ -8,9 +8,9 @@ title: Home
 description: >-
 keywords: ''
 # custom variables
-promotion-table: true
+promotion-table: 
 feature: true
-feature-image: media/resized5temp_hero.jpg
+feature-image: 
 ---
 ![PPL]({{site.baseurl}}/media/resized2pplgroup.jpg){:.img-right} 
 ## Inquiry. Insight. Impact.
