@@ -10,7 +10,7 @@ keywords: ''
 # custom variables
 promotion-table: true
 feature: true
-feature-image:
+feature-image: media/temp_hero.jpg
 ---
 ## Inquiry. Insight. Impact.
 
