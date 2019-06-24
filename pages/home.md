@@ -10,7 +10,7 @@ keywords: ''
 # custom variables
 promotion-table: true
 feature: true
-feature-image: 
+feature-image: media/resized4temp_hero.jpg
 ---
 ![PPL]({{site.baseurl}}/media/resized2pplgroup.jpg){:.img-right} 
 ## Inquiry. Insight. Impact.
