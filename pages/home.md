@@ -9,7 +9,7 @@ description: >-
 keywords: ''
 # custom variables
 promotion-table: 
-feature: true
+feature: 
 feature-image: 
 ---
 ![PPL]({{site.baseurl}}/media/resized2pplgroup.jpg){:.img-right} 
