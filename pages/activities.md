@@ -41,7 +41,7 @@ In this moderated panel, scholars discuss the current debates around early child
 - [Annemarie Hindman](https://education.temple.edu/about/faculty-staff/annemarie-h-hindman-ahindman) (Temple University)<br>
 - [Marsha Weinraub](https://liberalarts.temple.edu/academics/faculty/weinraub-marsha) (Temple University)<br>
 
-**Panel 3 – 2:00pm / Immigration Policy and Reform**
+**Panel 3 – 2:00pm / Immigration Policy and Reform**<br>
 Panelists discuss immigration policy from academic and legal perspectives, examining current debates around unauthorized immigration, refugee policy, and sanctuary cities.
 
 - [James Bachmeier](https://liberalarts.temple.edu/academics/faculty/bachmeier-james) (Temple University, Public Policy Lab Fellow)<br>
