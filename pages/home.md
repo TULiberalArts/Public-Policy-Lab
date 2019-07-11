@@ -12,7 +12,7 @@ promotion-table:
 feature: 
 feature-image: 
 ---
-![PPL]({{site.baseurl}}/media/revisedsavethedatewhite.jpg){:.responsive-img .img-center}
+![PPL]({{site.baseurl}}/media/revisedsavethedatewhite.jpg){:.responsive-img .img-centers}
 
 ___
 
