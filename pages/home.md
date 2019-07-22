@@ -23,4 +23,3 @@ The Public Policy Lab is an intellectual home for researchers who study public p
 The Lab’s colloquia series, conferences, fellowships, and study groups bring together the varied perspectives of scholars from a range of disciplines. Through rigorous research, these scholars address critical policy challenges at the local, state and national levels.
 
 ___
-
