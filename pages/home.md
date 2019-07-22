@@ -8,9 +8,11 @@ title: Home
 description: >-
 keywords: ''
 # custom variables
-promotion-table: 
-feature: 
-feature-image: 
+promotion-table: true
+feature: true
+feature-title: 
+feature-image:
+feature-body: >-
 ---
 ![PPL]({{site.baseurl}}/media/revisedsavethedatewhite.jpg){:.responsive-img .img-centers}
 
