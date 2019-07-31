@@ -14,7 +14,7 @@ The Public Policy Lab is honored to announce our 2019-2020 Inaugural Cohort of F
 ___
 
 ![James Bachmeier]({{site.baseurl}}/media/resizedjamesbachmier.jpg){:.responsive-img .img-right}
-**[James Bachmeier (Assistant Professor, Sociology)](https://liberalarts.temple.edu/academics/faculty/bachmeier-james)**<br>
+**[James Bachmeier (Associate Professor, Sociology)](https://liberalarts.temple.edu/academics/faculty/bachmeier-james)**<br>
 **Fellowship - Research Team Fellow**<br>
 
 Dr. James D. Bachmeier is an Assistant Professor in the Department of Sociology at Temple University. A sociologist and demographer, Dr. Bachmeier’s research focuses on international migration and patterns of social and economic integration of immigrants in western democracies, especially the United States.
