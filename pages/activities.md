@@ -62,7 +62,7 @@ ___
 
 
 ![Caterina Roman]({{site.baseurl}}/media/resizedcaterinaroman.jpg){:.responsive-img .img-right}
-**October 17, 2019: [Caterina Roman (Criminal Justice)](https://liberalarts.temple.edu/academics/faculty/roman-caterina)**<br>
+**October 3, 2019: [Caterina Roman (Criminal Justice)](https://liberalarts.temple.edu/academics/faculty/roman-caterina)**<br>
 **_Why is it so Difficult to Reduce Community Violence?  The Challenges of Street Culture, Delinquent Peer Networks and Gangs_**<br>
 
 Although long-term, national trends in violent crime indicate we are at historic lows, some urban neighborhoods, such as those in North Philadelphia, still suffer from disproportionately high levels of shootings and violence. Crime reduction initiatives come and go, with little dent in the homicide numbers. This presentation will outline the challenges facing urban neighborhoods where the street code of violence is high and youth often remain loyal to their anti-social peers. The presentation draws on a study with Philadelphia street gang members that sought to understand the dynamics of street crime and group violence, and how social networks might impede or facilitate withdrawal from crime and gangs. The presentation will also discuss the study’s implications for policy and practice.
@@ -70,7 +70,7 @@ Although long-term, national trends in violent crime indicate we are at historic
 ___
 
 ![Hamil Pearsall]({{site.baseurl}}/media/resizedhamilpearsall.jpg){:.responsive-img .img-right}
-**November 14, 2019: [Hamil Pearsall (Geography and Urban Studies)](https://liberalarts.temple.edu/academics/faculty/pearsall-hamil)**<br>
+**October 17, 2019: [Hamil Pearsall (Geography and Urban Studies)](https://liberalarts.temple.edu/academics/faculty/pearsall-hamil)**<br>
 **_A Walk in the Park? Challenges to Developing, Managing, and Maintaining Urban Public Spaces for a Just and Equitable City_**<br>
 
 This presentation examines inequities in urban public spaces through a series of questions, including: Do low-income and minority communities have lower levels of access to public spaces than wealthier and/or whiter communities? Are privately owned and/or privately managed public spaces less publicly accessible than publicly owned and managed spaces? What are the primary challenges to overcome to improve public space accessibility?
@@ -89,7 +89,7 @@ Older adults are at increased risk for financial exploitation and also age-relat
 ___
 
 ![Elise Chor]({{site.baseurl}}/media/resizedchor.jpg){:.responsive-img .img-right}
-**April 4, 2020: [Elise Chor (Political Science)](https://liberalarts.temple.edu/academics/faculty/chor-elise)**<br>
+**April 2, 2020: [Elise Chor (Political Science)](https://liberalarts.temple.edu/academics/faculty/chor-elise)**<br>
 **_Does Money Matter?: Preschool Funding, Program Quality, and Child Development_**<br>
 
 Preschool programs targeted towards low-income children can be effective at narrowing socioeconomic disparities in children’s skills at kindergarten entry, but preschool effectiveness varies widely across centers, potentially due to differences in per-pupil funding. This study investigates the relationships among preschool funding, program quality, and child development, with policy implications for the promotion of kindergarten readiness and expansion of opportunity into adulthood.
