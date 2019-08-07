@@ -3,8 +3,6 @@
 - text: People
   url: /people/
 - text: Contact
-  url : /contact/
-- text: Fellows
-  url: /fellows/ 
+  url : /contact/ 
 - text: Activities
   url: /activities/ 
