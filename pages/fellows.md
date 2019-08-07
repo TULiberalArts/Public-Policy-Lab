@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_page_test
 permalink: /fellows/
-published: true
+published: false
 # meta-data variables
 title: Fellows
 description: >-
