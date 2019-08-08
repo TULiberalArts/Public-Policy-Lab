@@ -76,9 +76,24 @@ ___
 This presentation examines inequities in urban public spaces through a series of questions, including: Do low-income and minority communities have lower levels of access to public spaces than wealthier and/or whiter communities? Are privately owned and/or privately managed public spaces less publicly accessible than publicly owned and managed spaces? What are the primary challenges to overcome to improve public space accessibility?
 
 ___
+
+![Fenaba Addo]({{site.baseurl}}/media/){:.responsive-img .img-right}
+**November 14, 2019: Fenaba Addo, Department of Consumer Science, University of Wisconsin-Madison**<br>
+**_Wealth Inequality and the Black Middle Class_**<br>
+
+Fenaba R. Addo, Ph.D. is the Lorna J. Wendt Assistant Professor of Consumer Science at the UW-Madison. She also a faculty affiliate of the Center for Financial Security, Institute for Research on Poverty, Center for Demography and Ecology,  La Follette School of Public Affairs, and Department of Sociology. Her research agenda examines how inequalities in debt and wealth create and recreate family, social, and health inequities. She is also interested the role that consumer and family policies serve in reinforcing these relationships and the consequences for economically vulnerable populations in the U.S., in particular communities of color, young adults, and older women.
+
+___
  
 ### Spring 2020
 
+![Karolyn Tyson]({{site.baseurl}}/media/){:.responsive-img .img-right}
+**February 13, 2020: Karolyn Tyson, Department of Sociology, University of North Carolina at Chapel Hill**<br>
+**_Trust in Times of Crisis and Change: Implications for Policy and Practice_**<br>
+
+Karolyn Tyson is Professor and Associate Chair in the Department of Sociology at the University of North Carolina at Chapel Hill. She received a doctorate in sociology from the University of California, Berkeley and a B.A. from Spelman College. Dr. Tyson specializes in qualitative research focused on schools and processes of social inequality. She is particularly interested in understanding the complex relationships between quotidian schooling processes, how people define their experiences, and individual action and outcomes. She is currently working on a book about trust in the aftermath of desegregation. Dr. Tyson is the author of Integration Interrupted: Tracking, Black Students, and Acting White after Brown as well as numerous articles examining the schooling experiences, attitudes, and outcomes of black students. 
+
+___
 
 ![David Smith]({{site.baseurl}}/media/resizeddavidsmith.jpg){:.responsive-img .img-right}
 **February 27, 2020: [David Smith (Psychology)](https://liberalarts.temple.edu/academics/faculty/smith-david-v)**<br>
