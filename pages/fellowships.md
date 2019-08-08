@@ -35,8 +35,7 @@ The College of Liberal Arts [Office of Research](https://liberalarts.temple.edu/
 <div class="row">
 <div class="col s10 m2"> 
   <div class="waves-effect waves-light btn">
-      <span class="white-text"> <a href="https://forms.gle/4YcND59zY2RCVryN8">Apply Now</a>
-        </span>
-    </span>
+      <span class="white-text"> <a href="https://forms.gle/4YcND59zY2RCVryN8">Apply Now</a></span>
+    </div>  
   </div>
 </div>
