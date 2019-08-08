@@ -77,7 +77,7 @@ This presentation examines inequities in urban public spaces through a series of
 
 ___
 
-![Fenaba Addo]({{site.baseurl}}/media/){:.responsive-img .img-right}
+![Fenaba Addo]({{site.baseurl}}/media/resizedAddo.jpg){:.responsive-img .img-right}
 **November 14, 2019: Fenaba Addo, Department of Consumer Science, University of Wisconsin-Madison**<br>
 **_Wealth Inequality and the Black Middle Class_**<br>
 
@@ -87,7 +87,7 @@ ___
  
 ### Spring 2020
 
-![Karolyn Tyson]({{site.baseurl}}/media/){:.responsive-img .img-right}
+![Karolyn Tyson]({{site.baseurl}}/media/resizedTyson.jpg){:.responsive-img .img-right}
 **February 13, 2020: Karolyn Tyson, Department of Sociology, University of North Carolina at Chapel Hill**<br>
 **_Trust in Times of Crisis and Change: Implications for Policy and Practice_**<br>
 
