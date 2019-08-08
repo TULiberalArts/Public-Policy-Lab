@@ -32,5 +32,5 @@ All Fellows are appointed for one academic year. Fellows join a diverse cohort o
 
 The College of Liberal Arts [Office of Research](https://liberalarts.temple.edu/research) is [available to assist applicants](https://www.cla.temple.edu/public-policy-lab/media/CLA-Grant-Support-Services.pdf) and fellows identifying and securing external funding for their research.
 
--_**[Apply Now](https://forms.gle/4YcND59zY2RCVryN8)_**<br>
+-[**_Apply Now_**](https://forms.gle/4YcND59zY2RCVryN8)<br>
     
