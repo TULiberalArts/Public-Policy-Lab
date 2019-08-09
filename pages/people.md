@@ -13,8 +13,8 @@ affiliated: profiles/affiliated.html
 faculty: profiles/faculty.html
 fellows: profiles/fellows.html
 ---
+The Public Policy Lab is led by our Director and Graduate Assistant Director.  Fellows receive grant-writing support from CLA’s Office of Research.
 
 ___
 
 The Public Policy Lab is honored to announce our 2019-2020 Inaugural Cohort of Fellows.
-
