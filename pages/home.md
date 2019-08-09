@@ -14,7 +14,7 @@ feature-title:
 feature-image:
 feature-body: >-
 ---
-![PPL]({{site.baseurl}}/media/revisedsavethedatewhite.jpg){:.responsive-img .img-centers}
+![PPL]({{site.baseurl}}/media/revisedsavethedatewhite.jpg){:.responsive-img .img-center}
 
 ___
 
