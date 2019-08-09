@@ -12,7 +12,6 @@ description: >-
 affiliated: profiles/affiliated.html
 faculty: profiles/faculty.html
 ---
-The Public Policy Lab is led by our Director and Graduate Assistant Director. Fellows receive grant-writing support from CLA’s Office of Research.
 
 ___
 
