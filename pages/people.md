@@ -17,4 +17,3 @@ The Public Policy Lab is led by our Director and Graduate Assistant Director.  F
 
 ___
 
-The Public Policy Lab is honored to announce our 2019-2020 Inaugural Cohort of Fellows.
