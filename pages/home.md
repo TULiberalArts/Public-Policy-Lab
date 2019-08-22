@@ -25,3 +25,30 @@ The Public Policy Lab is an intellectual home for researchers who study public p
 The Lab’s colloquia series, conferences, fellowships, and study groups bring together the varied perspectives of scholars from a range of disciplines. Through rigorous research, these scholars address critical policy challenges at the local, state and national levels.
 
 ___
+
+
+<div class="row row-wide">
+  <div class="col m12 l4">{% include cards/card2-image.html
+    title="Announcing 2020-2021 Fellowships"
+    content="PPL is currently accepting applications for Faculty, Research Team, and Graduate Fellowships. Deadline for applications is November 1, 2019."
+    image=""
+    button-link="https://www.cla.temple.edu/public-policy-lab/fellowships/"
+    button-text="Learn More" %}
+  </div>
+  <div class="row row-wide">
+    <div class="col m12 l4">{% include cards/card2-image.html
+      title="Colloquium Series"
+      content="PPL Fellows and prominent scholars from around the country present in our Inaugural Colloquium Series."
+      image=""
+      button-link="https://www.cla.temple.edu/public-policy-lab/activities/"
+      button-text="Learn More" %}
+    </div>
+    <div class="row row-wide">
+      <div class="col m12 l4">{% include cards/card2-image.html
+        title="Meet Our Fellows"
+        content="PPL’s Faculty, Research Team, and Graduate Fellows were selected from across the College of Liberal Arts."
+        image=""
+        button-link="https://www.cla.temple.edu/public-policy-lab/people/"
+        button-text="Learn More" %}
+      </div>
+</div>
