@@ -14,6 +14,7 @@ feature:
 ___
 
 ## Public Policy Lab: Colloquium Series
+All Colloquia take place from 12:30PM-1:50PM on the 10th Floor of Gladfelter Hall. 
 
 ### Fall 2019
 
