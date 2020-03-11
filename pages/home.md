@@ -24,7 +24,7 @@ ___
 
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Announcing 2020-2021 Fellowships"
     content="PPL is currently accepting applications for Faculty, Research Team, and Graduate Fellowships. Deadline for applications is November 1, 2019."
     image=""
@@ -32,7 +32,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="Colloquium Series"
       content="PPL Fellows and prominent scholars from around the country present in our Inaugural Colloquium Series."
       image=""
@@ -40,7 +40,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Meet Our Fellows"
         content="PPL’s Faculty, Research Team, and Graduate Fellows were selected from across the College of Liberal Arts."
         image=""
