@@ -33,10 +33,10 @@ ___
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-fixed.html
-      title="Colloquium Series"
-      content="PPL Fellows and prominent scholars from around the country present in our Inaugural Colloquium Series."
+      title="COVID-19 Interview Series"
+      content="PPL is hosting a series of conversations with experts on the policy impacts of the COVID-19 pandemic."
       image=""
-      button-link="https://www.cla.temple.edu/public-policy-lab/activities/"
+      button-link="https://www.cla.temple.edu/public-policy-lab/covid-19/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
