@@ -11,7 +11,6 @@ keywords: ''
 promotion-table: 
 feature: 
 ---
-## COVID-19
 PPL is hosting a series of conversations with experts on the policy impacts of the COVID-19 pandemic. In our first two installments. PPL's Director, Judith Levine, spoke with Professor Harold Pollack of the University of Chicago's School of Social Service Administration and Professor Douglas Webber of the Temple University Department of Economics.
 
 ___
