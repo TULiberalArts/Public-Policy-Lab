@@ -11,8 +11,6 @@ keywords: ''
 promotion-table: 
 feature: 
 ---
-___
-
 ## Public Policy Lab: Colloquium Series
 **_All Colloquia take place from 12:30PM-1:50PM on the 10th Floor of Gladfelter Hall_**. 
 
