@@ -14,7 +14,7 @@ feature-title:
 feature-image:
 feature-body: >-
 ---
-![PPL]({{site.baseurl}}/media/resized2pplgroup.jpg){:.img-right} 
+![PPL]({{site.baseurl}}/media/){:.img-right} 
 ## Inquiry. Insight. Impact.
 The Public Policy Lab is an intellectual home for researchers who study public policies and the social processes relevant to their development and consequences. Housed in the College of Liberal Arts, the non-partisan Lab provides an interdisciplinary forum for discussion of contemporary policy issues, research support for faculty and student scholarship and a mechanism to disseminate participants’ research findings.
 
@@ -36,7 +36,7 @@ ___
       title="COVID-19 Interview Series"
       content="PPL is hosting a series of conversations with experts on the policy impacts of the COVID-19 pandemic."
       image=""
-      button-link="https://www.cla.temple.edu/public-policy-lab/covid-19/"
+      button-link="https://www.cla.temple.edu/public-policy-lab/resources/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
