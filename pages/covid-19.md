@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_page_test
 permalink: /covid-19/
-published: true
+published: false
 # meta-data variables
 title: COVID-19
 description: >-
