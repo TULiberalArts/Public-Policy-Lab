@@ -25,26 +25,26 @@ ___
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-fixed.html
-    title="Announcing 2020-2021 Fellowships"
-    content="PPL is currently accepting applications for Faculty, Research Team, and Graduate Fellowships. Deadline for applications is November 1, 2019."
+    title="COVID-19 Interview Series"
+    content="PPL is hosting a series of conversations with experts on the policy impacts of the COVID-19 pandemic."
     image=""
-    button-link="https://www.cla.temple.edu/public-policy-lab/fellowships/"
+    button-link="https://www.cla.temple.edu/public-policy-lab/resources/"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-fixed.html
-      title="COVID-19 Interview Series"
-      content="PPL is hosting a series of conversations with experts on the policy impacts of the COVID-19 pandemic."
+      title="Meet Our Fellows"
+      content="PPL’s Faculty, Research Team, and Graduate Fellows were selected from across the College of Liberal Arts."
       image=""
-      button-link="https://www.cla.temple.edu/public-policy-lab/resources/"
+      button-link="https://www.cla.temple.edu/public-policy-lab/people/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-fixed.html
-        title="Meet Our Fellows"
-        content="PPL’s Faculty, Research Team, and Graduate Fellows were selected from across the College of Liberal Arts."
+        title="Sign Up for Our Mailing List"
+        content="Keep up to date with PPL news and events."
         image=""
-        button-link="https://www.cla.temple.edu/public-policy-lab/people/"
+        button-link="https://mailchi.mp/28955fb226b9/signup"
         button-text="Learn More" %}
       </div>
 </div>
