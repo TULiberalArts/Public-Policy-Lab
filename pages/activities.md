@@ -21,4 +21,4 @@ On June 18th, Temple University's College of Liberal Arts hosted the webinar, "I
 
 **Is This Time Different? Social Movement for Racial Justice**<br>
 
-<div align="center" class="video-container"><iframe width="560" height="315" src="https://youtu.be/SbTVfjxrd98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/SbTVfjxrd98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
