@@ -12,7 +12,8 @@ promotion-table:
 feature: 
 ---
 ## Public Policy Lab: Colloquium Series
-**_All Colloquia take place from 12:30PM-1:50PM on the 10th Floor of Gladfelter Hall_**. You can view our past events on the [2019-2020 Colloquium Series](https://www.cla.temple.edu/public-policy-lab/past-lectures/) page. 
+**_All Colloquia take place from 12:30PM-1:50PM on the 10th Floor of Gladfelter Hall_**.<br> 
+- You can view our past events on the [2019-2020 Colloquium Series](https://www.cla.temple.edu/public-policy-lab/past-lectures/) page. 
 
 ___
 
