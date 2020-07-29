@@ -17,7 +17,7 @@ ___
 
 **PPL Interview Series - Jamie Ray-Leonetti**<br>
 
-<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/watch?v=eTQnEIxOylY&t=13s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/eTQnEIxOylY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ___
 
