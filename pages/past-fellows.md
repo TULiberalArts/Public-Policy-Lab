@@ -1,18 +1,17 @@
 ---
 # global predefined variables
 layout: tla_page_test
-permalink: /fellows/
+permalink: /past-fellows/
 published: false
 # meta-data variables
-title: Fellows
+title: Past Fellows
 description: >-
 keywords: ''
 # custom variables
 ---
-The Public Policy Lab is honored to announce our 2019-2020 Inaugural Cohort of Fellows.
-
 ___
 
+## 2019-2020 PPL Fellows
 ![James Bachmeier]({{site.baseurl}}/media/resizedjamesbachmier.jpg){:.responsive-img .img-right}
 **[James Bachmeier (Associate Professor, Sociology)](https://liberalarts.temple.edu/academics/faculty/bachmeier-james)**<br>
 **Fellowship - Research Team Fellow**<br>
