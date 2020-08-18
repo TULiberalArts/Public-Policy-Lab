@@ -11,6 +11,8 @@ keywords: ''
 promotion-table: 
 feature: 
 ---
+___
+
 ## COVID-19 Policy Briefs
 PPL Policy Briefs provide concise summaries of policy-relevant academic research for policy makers and the public.
 
@@ -28,8 +30,6 @@ Department of Sociology, Temple University
 
 ## COVID-19 Interview Series
 PPL hosted a series of conversations with experts on the policy impacts of the COVID-19 pandemic. PPL Director Judith spoke with Professor Harold Pollack of the University of Chicago’s School of Social Service Administration, Professor Douglas Webber of the Temple University Department of Economics, and Ms. Jamie Ray-Leonetti, Associate Director of Policy at the Institute on Disabilities at Temple University.
-
-___
 
 **PPL Interview Series - Jamie Ray-Leonetti**<br>
 
