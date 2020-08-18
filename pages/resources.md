@@ -11,8 +11,23 @@ keywords: ''
 promotion-table: 
 feature: 
 ---
-## COVID 19 Interview Series
-PPL is hosting a series of conversations with experts on the policy impacts of the COVID-19 pandemic. In our first two installments. PPL's Director, Judith Levine, spoke with Professor Harold Pollack of the University of Chicago's School of Social Service Administration and Professor Douglas Webber of the Temple University Department of Economics.
+## COVID-19 Policy Briefs
+PPL Policy Briefs provide concise summaries of policy-relevant academic research for policy makers and the public.
+
+- [The Convergence of the COVID-19 and Opioid Health Crises in the US](https://liberalarts.temple.edu/sites/liberalarts/files/PPL%20Policy%20Brief%20No.1_081820.pdf) 
+By Jeremy Mennis & Gerald J. Stahler
+Department of Geography and Urban Studies, Temple University
+
+- [COVID-19: Challenges for Higher Education](https://liberalarts.temple.edu/sites/liberalarts/files/PPL%20Policy%20Brief%20No.2_081820.pdf)
+By Douglas Webber
+Department of Economics, Temple University
+
+[The Hardest Hit: Post-COVID Unemployment in Immigrant-Dense Industries](https://liberalarts.temple.edu/sites/liberalarts/files/PPL%20Policy%20Brief%20No.3_081820.pdf)
+By Cody Spence & James D. Bachmeier
+Department of Sociology, Temple University
+
+## COVID-19 Interview Series
+PPL hosted a series of conversations with experts on the policy impacts of the COVID-19 pandemic. PPL Director Judith spoke with Professor Harold Pollack of the University of Chicago’s School of Social Service Administration, Professor Douglas Webber of the Temple University Department of Economics, and Ms. Jamie Ray-Leonetti, Associate Director of Policy at the Institute on Disabilities at Temple University.
 
 ___
 
