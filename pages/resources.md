@@ -14,16 +14,16 @@ feature:
 ## COVID-19 Policy Briefs
 PPL Policy Briefs provide concise summaries of policy-relevant academic research for policy makers and the public.
 
-- [The Convergence of the COVID-19 and Opioid Health Crises in the US](https://liberalarts.temple.edu/sites/liberalarts/files/PPL%20Policy%20Brief%20No.1_081820.pdf) 
-By Jeremy Mennis & Gerald J. Stahler
+- [The Convergence of the COVID-19 and Opioid Health Crises in the US](https://liberalarts.temple.edu/sites/liberalarts/files/PPL%20Policy%20Brief%20No.1_081820.pdf)<br> 
+By Jeremy Mennis & Gerald J. Stahler<br> 
 Department of Geography and Urban Studies, Temple University
 
-- [COVID-19: Challenges for Higher Education](https://liberalarts.temple.edu/sites/liberalarts/files/PPL%20Policy%20Brief%20No.2_081820.pdf)
-By Douglas Webber
+- [COVID-19: Challenges for Higher Education](https://liberalarts.temple.edu/sites/liberalarts/files/PPL%20Policy%20Brief%20No.2_081820.pdf)<br> 
+By Douglas Webber<br> 
 Department of Economics, Temple University
 
-- [The Hardest Hit: Post-COVID Unemployment in Immigrant-Dense Industries](https://liberalarts.temple.edu/sites/liberalarts/files/PPL%20Policy%20Brief%20No.3_081820.pdf)
-By Cody Spence & James D. Bachmeier
+- [The Hardest Hit: Post-COVID Unemployment in Immigrant-Dense Industries](https://liberalarts.temple.edu/sites/liberalarts/files/PPL%20Policy%20Brief%20No.3_081820.pdf)<br> 
+By Cody Spence & James D. Bachmeier<br> 
 Department of Sociology, Temple University
 
 ## COVID-19 Interview Series
