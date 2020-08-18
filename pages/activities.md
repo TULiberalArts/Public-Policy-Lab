@@ -20,12 +20,11 @@ ___
 ## 2020- 2021 Colloquium Series
 
 ![Bryant Simon]({{site.baseurl}}/media/bryantsimon.jpg){:.responsive-img .img-right}
+**[Bryant Simon, Professor (History)](https://liberalarts.temple.edu/academics/faculty/simon-bryant)**<br>
 **October 22, 2020**<br>
 **12:30pm – 1:50pm**<br>
 
-**[Bryant Simon, Professor (History)](https://liberalarts.temple.edu/academics/faculty/simon-bryant)**<br>
-_Protected Spaces: The Rise and Fall of the Public Bathroom in the United States: A Preliminary Research Report_<br>
-
+**_Protected Spaces: The Rise and Fall of the Public Bathroom in the United States: A Preliminary Research Report_**<br>
 Finding a public bathroom in Center City Philadelphia (or any other American city) isn’t easy. Sometimes the absence of a clean and accessible toilet is the punchline of a joke, but other times it is something far more menacing, like when two Black men asked to use the Starbucks bathroom near Rittenhouse Square and ended up in handcuffs and then on the nightly news. 
 
 “America,” NYU sociologist and toilet scholar Harvey Molotch told the Washington Post after that Starbucks moment in 2017, “has a public bathroom problem.”
