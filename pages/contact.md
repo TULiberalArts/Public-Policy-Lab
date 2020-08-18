@@ -11,11 +11,11 @@ keywords: ''
 promotion-table: 
 feature: 
 ---
-The Public Policy Lab is located on the 10th Floor of [Gladfelter Hall](https://goo.gl/maps/GiWvmLkAnrT2).
-
-Please contact us by email at [{{ site.address.email }}](mailto:{{ site.address.email }}).
+The Public Policy Lab is located on the 10th Floor of [Gladfelter Hall](https://goo.gl/maps/GiWvmLkAnrT2). Please contact us by email at [{{ site.address.email }}](mailto:{{ site.address.email }}).
 
 Follow us on Twitter [@{{ site.social.twitter }}](https://twitter.com/{{ site.social.twitter }})
+
+___
 
 <br/>
 
