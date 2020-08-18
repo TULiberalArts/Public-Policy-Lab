@@ -24,7 +24,7 @@ ___
   <div class="col m12 l4">{% include cards/card2-fixed.html
     title="COVID-19 Interview Series"
     content="PPL is hosting a series of conversations with experts on the policy impacts of the COVID-19 pandemic."
-    image="media/updatedpplcovid.png"
+    image=""
     button-link="https://www.cla.temple.edu/public-policy-lab/resources/"
     button-text="Learn More" %}
   </div>
