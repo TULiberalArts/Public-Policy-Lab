@@ -14,7 +14,7 @@ feature-title:
 feature-image:
 feature-body: >-
 ---
-[![PPL COVID]( https://github.com/TULiberalArts/Public-Policy-Lab/blob/master/media/cropped%20ppl%20covid.png?raw=true)](https://www.cla.temple.edu/public-policy-lab/resources/){:.responsive-img .img-right}
+[![PPL COVID]( https://github.com/TULiberalArts/Public-Policy-Lab/blob/master/media/updatedpplcovid.png?raw=true)](https://www.cla.temple.edu/public-policy-lab/resources/){:.responsive-img .img-right}
 ## Inquiry. Insight. Impact.
 The Public Policy Lab is an intellectual home for researchers who study public policies and the social processes relevant to their development and consequences. Housed in the College of Liberal Arts, the non-partisan Lab provides an interdisciplinary forum for discussion of contemporary policy issues, research support for faculty and student scholarship and a mechanism to disseminate participants’ research findings.
 
