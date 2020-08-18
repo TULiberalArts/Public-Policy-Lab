@@ -12,8 +12,10 @@ promotion-table:
 feature: 
 ---
 ## Public Policy Lab: Colloquium Series
-**_All Colloquia for Fall 2020 will take place via Zoom.**<br> 
+**_All Colloquia for Fall 2020 will take place via Zoom._**<br> 
 - You can view our past events on the [2019-2020 Colloquium Series](https://www.cla.temple.edu/public-policy-lab/past-lectures/) page. 
+
+___
 
 ## 2020- 2021 Colloquium Series
 
