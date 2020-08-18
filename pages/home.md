@@ -10,7 +10,7 @@ keywords: ''
 # custom variables
 promotion-table: true
 feature: true
-feature-image: media/2020pplhero.png
+feature-image: media/2020pplherocropped1.png
 ---
 [![PPL COVID]( https://github.com/TULiberalArts/Public-Policy-Lab/blob/master/media/updatedpplcovid.png?raw=true)](https://www.cla.temple.edu/public-policy-lab/resources/){:.responsive-img .img-right}
 ## Inquiry. Insight. Impact.
