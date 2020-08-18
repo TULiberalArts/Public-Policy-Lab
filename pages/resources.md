@@ -22,7 +22,7 @@ Department of Geography and Urban Studies, Temple University
 By Douglas Webber
 Department of Economics, Temple University
 
-[The Hardest Hit: Post-COVID Unemployment in Immigrant-Dense Industries](https://liberalarts.temple.edu/sites/liberalarts/files/PPL%20Policy%20Brief%20No.3_081820.pdf)
+- [The Hardest Hit: Post-COVID Unemployment in Immigrant-Dense Industries](https://liberalarts.temple.edu/sites/liberalarts/files/PPL%20Policy%20Brief%20No.3_081820.pdf)
 By Cody Spence & James D. Bachmeier
 Department of Sociology, Temple University
 
