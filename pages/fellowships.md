@@ -11,6 +11,8 @@ keywords: ''
 promotion-table: 
 feature: 
 ---
+___
+
 The Public Policy Lab (PPL) supports faculty and graduate student scholarship addressing either public policies themselves or social conditions and processes with implications for public policy. We welcome scholars using a wide variety of methodological approaches. We offer three types of fellowships:
 
 **_Faculty Fellowship_**<br>
