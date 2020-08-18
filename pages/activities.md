@@ -38,34 +38,31 @@ These are the questions driving my current project, and there is perhaps no bett
 ___
 
 ![Michael Sances]({{site.baseurl}}/media/michaelsances.jpg){:.responsive-img .img-right}
+**[Michael Sances, Assistant Professor (Political Science)](https://liberalarts.temple.edu/academics/faculty/sances-michael)**<br>
 **February 4, 2021**<br>
 **12:30pm – 1:50pm**<br>
 
-**[Michael Sances, Assistant Professor (Political Science)](https://liberalarts.temple.edu/academics/faculty/sances-michael)**<br>
-_When Do Reformer District Attorneys Run and Win?_<br>
-
+**_When Do Reformer District Attorneys Run and Win?_**<br>
 Several large cities have elected district attorneys committed to using the power of the office to reduce mass incarceration. While there has been a good deal of journalistic attention to the small number of cases where these reformers win office, we know little about the reasons why these reformers win office, and we know even less about cases where reformers run, but don't win. In this talk, I present preliminary evidence on the prevalence of reformer district attorneys as winners and losers in the largest jurisdictions in recent election cycles. I will also discuss the correlates of reformers' electoral entry and electoral success. These results have implications for the efficacy of “bottom-up” efforts at reforming criminal justice policy.
 
 ___
 
 ![Celeste Winston]({{site.baseurl}}/media/celestewinston.jpg){:.responsive-img .img-right}
+**[Celeste Winston, Assistant Professor (Geography and Urban Studies)](https://liberalarts.temple.edu/academics/faculty/winston-celeste)**<br>
 **March 11, 2021**<br>
 **12:30pm – 1:50pm**<br>
 
-**[Celeste Winston, Assistant Professor (Geography and Urban Studies)](https://liberalarts.temple.edu/academics/faculty/winston-celeste)**<br>
-_Abolition Policy and the Long Movement for Black Lives_<br>
-
+**_Abolition Policy and the Long Movement for Black Lives_**<br>
 Although police abolition is gaining new traction in the US policy arena, everyday practices of living beyond policing have always shaped communities located at the margins of US society. This presentation draws on research in historically Black communities in the United States shaped by longstanding challenges to policing. The long movement for Black survival and abolition offers grounded evidence of the possibility of a world beyond policing that an ever-growing group of scholars, political organizers, and now policymakers are calling for.
 
 ___
 
 ![Elise Chor]({{site.baseurl}}/media/elisechor.jpg){:.responsive-img .img-right}
+**[Elise Chor, Assistant Professor (Political Science)](https://liberalarts.temple.edu/academics/faculty/chor-elise)**<br>
 **April 8, 2021 (Rescheduled from April 2, 2020)**<br>
 **12:30pm – 1:50pm**<br>
 
-**[Elise Chor, Assistant Professor (Political Science)](https://liberalarts.temple.edu/academics/faculty/chor-elise)**<br>
-_Does Money Matter? Preschool Funding, Program Quality, and Child Development_<br>
-
+**_Does Money Matter? Preschool Funding, Program Quality, and Child Development_**<br>
 Preschool programs targeted towards low-income children can be effective at narrowing socioeconomic disparities in children’s skills at kindergarten entry, but preschool effectiveness varies widely across centers, potentially due to differences in per-pupil funding. This study investigates the relationships among preschool funding, program quality, and child development, with policy implications for the promotion of kindergarten readiness and expansion of opportunity into adulthood.
 
 ___
