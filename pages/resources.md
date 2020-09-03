@@ -20,7 +20,7 @@ PPL Policy Briefs provide concise summaries of policy-relevant academic research
 By Elise Chor<br> 
 Department of Political Science, Temple University
 
-- [Can an Equity Index Promoting an Environmentally ‘Just’ City Help Us Beat Pandemics, Address Injustice, and Prepare Us for Climate Change?](https://liberalarts.temple.edu/sites/liberalarts/files/PPL%20Policy%20Brief%20No.5_090320.pdf)<br> 
+- [Can an Equity Index Promoting an Environmentally ‘Just’ City Help Us Beat Pandemics, Address Injustice, and Prepare Us for Climate Change?](https://liberalarts.temple.edu/sites/liberalarts/files/PPL%20Policy%20Brief%20No.5_updated_090320.pdf)<br> 
 By Christina D. Rosan, Department of Political Science, Temple University<br> 
 Megan Heckert, Department of Geography and Planning, West Chester University
 
