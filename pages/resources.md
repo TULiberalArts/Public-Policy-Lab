@@ -39,20 +39,35 @@ Department of Sociology, Temple University
 ## COVID-19 Interview Series
 PPL hosted a series of conversations with experts on the policy impacts of the COVID-19 pandemic. PPL Director Judith spoke with Professor Harold Pollack of the University of Chicago’s School of Social Service Administration, Professor Douglas Webber of the Temple University Department of Economics, and Ms. Jamie Ray-Leonetti, Associate Director of Policy at the Institute on Disabilities at Temple University.
 
-**PPL Interview Series - Jamie Ray-Leonetti**<br>
+**PPL COVID-19 Interview Series - Jamie Ray-Leonetti**<br>
 
 <div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/eTQnEIxOylY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ___
 
-**PPL Interview Series - Professor Harold Pollack**<br>
+**PPL COVID-19 Interview Series - Professor Harold Pollack**<br>
 
 <div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/ep2VS3mhYZw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ___
 
-**PPL Interview Series - Professor Douglas Webber**<br>
+**PPL COVID-19 Interview Series - Professor Douglas Webber**<br>
 
 <div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/Cruvb63O3Fo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 ___
+
+## Past Interviews and Events
+PPL Assistant Director Colin Hammar interviewed Professor Leonore Carpenter of the Beasley School of Law at Temple University about the Supreme Court's 2020 decision on Title VII and LGBT employment non-discrimination.
+
+<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/d13ZO2XR9A0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+The Public Policy Lab hosted a webinar event titled Taking Research Public: Tips for Writing Effective Op-Eds. The event featured Elena Gooray, Opinion Editor for the _Philadelphia Inquirer_, and Caterina Roman,
+Professor of Criminal Justice at Temple University and Past PPL Fellow.
+
+<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/NVENsSiIZ-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+
+
+
+
