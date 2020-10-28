@@ -67,7 +67,3 @@ Professor of Criminal Justice at Temple University and Past PPL Fellow.
 
 <div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/NVENsSiIZ-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-
-
-
-
