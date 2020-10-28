@@ -58,10 +58,12 @@ ___
 ___
 
 ## Past Interviews and Events
+**PPL Interview Series - Professor Leonore Carpenter**<br>
 PPL Assistant Director Colin Hammar interviewed Professor Leonore Carpenter of the Beasley School of Law at Temple University about the Supreme Court's 2020 decision on Title VII and LGBT employment non-discrimination.
 
 <div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/d13ZO2XR9A0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
 
+**PPL Professional Development Series- Writing Successful Op-Eds**<br>
 The Public Policy Lab hosted a webinar event titled Taking Research Public: Tips for Writing Effective Op-Eds. The event featured Elena Gooray, Opinion Editor for the _Philadelphia Inquirer_, and Caterina Roman,
 Professor of Criminal Justice at Temple University and Past PPL Fellow.
 
