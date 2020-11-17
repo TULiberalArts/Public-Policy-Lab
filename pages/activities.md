@@ -67,9 +67,15 @@ Preschool programs targeted towards low-income children can be effective at narr
 
 ___
 
-On June 18th, Temple University's College of Liberal Arts hosted the webinar, "Is This Time Different? Social Movement for Racial Justice," organized by the Center for the Humanities at Temple (CHAT) and the Public Policy Lab (PPL). The webinar was moderated by Benjamin Talton (History) with panelists Heath Fogg Davis (Political Science; Gender, Sexuality, and Women's Studies), Ajima Olaghere (Criminal Justice), Celeste Winston (Geography and Urban Studies), and Sean Yom (Political Science).
+**PPL Professional Development Series- Writing Successful Op-Eds**<br>
+The Public Policy Lab hosted a webinar event titled Taking Research Public: Tips for Writing Effective Op-Eds. The event featured Elena Gooray, Opinion Editor for the _Philadelphia Inquirer_, and Caterina Roman,
+Professor of Criminal Justice at Temple University and Past PPL Fellow.
 
+<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/NVENsSiIZ-4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+___
 
 **Is This Time Different? Social Movement for Racial Justice**<br>
+On June 18th, Temple University's College of Liberal Arts hosted the webinar, "Is This Time Different? Social Movement for Racial Justice," organized by the Center for the Humanities at Temple (CHAT) and the Public Policy Lab (PPL). The webinar was moderated by Benjamin Talton (History) with panelists Heath Fogg Davis (Political Science; Gender, Sexuality, and Women's Studies), Ajima Olaghere (Criminal Justice), Celeste Winston (Geography and Urban Studies), and Sean Yom (Political Science).
 
 <div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/SbTVfjxrd98" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
