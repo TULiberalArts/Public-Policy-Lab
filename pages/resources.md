@@ -11,6 +11,12 @@ keywords: ''
 promotion-table: 
 feature: 
 ---
+## Public Policy Lab Interview Series
+**Professor Leonore Carpenter**<br>
+PPL Assistant Director Colin Hammar interviewed Professor Leonore Carpenter of the Beasley School of Law at Temple University about the Supreme Court's 2020 decision on Title VII and LGBT employment non-discrimination.
+
+<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/d13ZO2XR9A0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+
 ___
 
 ## COVID-19 Policy Briefs
@@ -54,12 +60,3 @@ ___
 **PPL COVID-19 Interview Series - Professor Douglas Webber**<br>
 
 <div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/Cruvb63O3Fo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-___
-
-## Past Interviews and Events
-**PPL Interview Series - Professor Leonore Carpenter**<br>
-PPL Assistant Director Colin Hammar interviewed Professor Leonore Carpenter of the Beasley School of Law at Temple University about the Supreme Court's 2020 decision on Title VII and LGBT employment non-discrimination.
-
-<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/d13ZO2XR9A0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
-
