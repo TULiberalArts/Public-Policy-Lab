@@ -67,6 +67,13 @@ Preschool programs targeted towards low-income children can be effective at narr
 
 ___
 
+**Policy Roundtable Series- Election 2020: Results and Reactions**<br>
+PPL Director Judith Levine moderates a discussion about the 2020 Election with an esteemed panel from Temple's Political Science Department: Chair Robin Kolodny, Nyron Crawford, David Nickerson, and Michael Sances. The panel, held one week after Election Day, examines what we know and what to expect next.
+
+<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/om4-DSzfYSs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+___
+
 **PPL Professional Development Series- Writing Successful Op-Eds**<br>
 The Public Policy Lab hosted a webinar event titled Taking Research Public: Tips for Writing Effective Op-Eds. The event featured Elena Gooray, Opinion Editor for the _Philadelphia Inquirer_, and Caterina Roman,
 Professor of Criminal Justice at Temple University and Past PPL Fellow.
