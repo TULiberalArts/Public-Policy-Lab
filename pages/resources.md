@@ -12,6 +12,11 @@ promotion-table:
 feature: 
 ---
 ## Public Policy Lab Interview Series
+**Dr. Jalil Mustaffa Bishop**<br>
+PPL Faculty Fellow Dr. Celeste Winston interviewed Dr. Jalil Mustaffa Bishop, Vice-Provost Postdoctoral Scholar at the University of Pennsylvania, about the student debt crisis and racial inequality.
+
+<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/9SdGaQ4cuiM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div><br>
+
 **Professor Leonore Carpenter**<br>
 PPL Assistant Director Colin Hammar interviewed Professor Leonore Carpenter of the Beasley School of Law at Temple University about the Supreme Court's 2020 decision on Title VII and LGBT employment non-discrimination.
 
